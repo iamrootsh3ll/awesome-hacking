@@ -80,7 +80,9 @@ For a list of free hacking books available for download, go [here](https://githu
 ## General
  * [Exploit database](https://www.exploit-db.com/) - An ultimate archive of exploits and vulnerable software
 
-
+# WiFi Penetration Testing and Security
+ * [WiFi Pentesting Series](https://rootsh3ll.com/wi-fi-security-and-pentesting-preface/) - An up-to-date and in-depth guide for aspiring WiFI Hackers and Security enthusiasts
+ 
 # Reverse Engineering
 
 ## Tutorials
@@ -206,6 +208,7 @@ For a list of free hacking books available for download, go [here](https://githu
  * [Boston Key Party CTF](http://bostonkeyparty.net/)
 
 ## General
+ * [rootsh3ll Members Area](https://members.rootsh3ll.com) - A Forum for Wireless(802.11) Pentesting and Security Enthusiasts
  * [Hack+](http://hack.plus) - An Intelligent network of bots that fetch the latest InfoSec content.
  * [CTFtime.org](https://ctftime.org/) - All about CTF (Capture The Flag)
  * [WeChall](http://www.wechall.net/)
